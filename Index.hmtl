@@ -1,0 +1,57 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SX Tim | Start</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Otomanopee+One&family=Roboto:wght@500&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+    <!---HEADER---->
+
+    <header>
+        <div id="logo">
+            <a href="https://www.youtube.com/channel/UCj9bS-wwjfUPyga8i6mr6Rg">
+                <img src="images/Helm icon.png" alt="Logo">
+            </a>
+        </div>
+
+        <nav id="main-nav">
+            <ul>
+                <li>  <a href="#home">Home</a></li>
+                <li>  <a href="about.html">About</a></li>
+                <li>  <a href="work.html">Work</a></li>
+                <li>  <a href="contact.html">Contact</a></li>
+                <li>  <a href="login.html">Login or Signup</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!---Home---->
+
+    <section id="home">
+        <hr>
+        <h1>SX Tim</h1>
+        <h2> Biker &amp; Influencer</h2>
+        <a href="about.html">
+            <img src="Images/Pfeil.png.png" alt="Pfeil">
+        </a>
+    </section>
+
+    <!---FOOTER---->
+
+    <footer>
+        <p>
+            &copy; 2021 SX Tim
+        </p>
+    </footer>
+
+</body>
+</html>
